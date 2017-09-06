@@ -143,7 +143,7 @@ Version 24.00 (Sept 30, 2016)
  New Features
  ------------
  - Added missing menu items for Execute All (sea), Execute Line (sel),
-   Execute Previous Visual Selection (sep) (pull #18) (Raphaël Bade)
+   Execute Previous Visual Selection (sep) (pull #18) (RaphaÃ«l Bade)
  - When using ?s as input parameters, these can now be remembered
    and used when saving previous values when executing the query.
  - Additional examples of connecting to Oracle using DBI/ODBC
@@ -271,7 +271,7 @@ Version 20.00 (September 24, 2013)
  - Changed the default SQLite binary to be sqlite3 instead of sqlite
    (Greg Kapfhammer).
  - Added a profile example for using the "sqsh" binary to connect to
-   SQL Server instead of "osql" (Brian Iván Martínez).
+   SQL Server instead of "osql" (Brian IvÃ¡n MartÃ­nez).
  - The cmd_terminator displayed under Connection Options in the DBGetOption
    output was always blank.
  - Improved support for SAP HANA database, pulling objects from the system
@@ -286,7 +286,7 @@ Version 20.00 (September 24, 2013)
    which require an active database connection (i.e. Tables,
    Procedures, ...) which had failed to connect to the database.
  - dbext was not prompting for ? parameters in PHP files.  This also
-   affected all languages (Jérémie).
+   affected all languages (JÃ©rÃ©mie).
  - Changing a database's global cmd terminator was not necessarily
    picked up when using that database type (Jason Quirk).
  - ODBC or DBI could report an error about using length() instead
